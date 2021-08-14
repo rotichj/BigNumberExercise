@@ -12,7 +12,7 @@ namespace Exercise02
             //BigInteger test = BigInteger.Parse("18456002032011000007");// tests
 
 
-            var res= dr.Towards(1245);
+            var res= dr.Towards(-23324);
             Console.WriteLine(res);
             Console.Read();
         }

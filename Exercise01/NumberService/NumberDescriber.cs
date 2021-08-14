@@ -15,12 +15,21 @@ namespace Exercise01.NumberService
             //bool addNegative = false;  This thing wasnt a joke, I have never thought it as something worth trying , but finally I did int, COnverting nmbers to words
 
             //Int64 startingPoint = 1000000000000000;
-            var groupLengthName = new[] { " hundred,"," thousand,", " million,", " billion,", " trillion,", " quandrillion,"," quintillion,"};
+            
+            
+            string word = string.Empty;
+
+            if (bigNumber < 0)
+            {
+                word = " Negative";
+                bigNumber = -1*bigNumber;
+            }
+
+            var groupLengthName = new[] { " hundred,", " thousand,", " million,", " billion,", " trillion,", " quandrillion,", " quintillion," };
 
             var numberGrouping = GroupedNumber(bigNumber.ToString());
 
             var groupLength = numberGrouping.Length;
-            string word = string.Empty;
 
             for (int i = numberGrouping.Length - 1; i >= 0; i--)
             {
