@@ -1,0 +1,12 @@
+C:\Users\JROTICH\source\repos\Exercise01\Exercise01\bin\Debug\net5.0\Exercise01.deps.json
+C:\Users\JROTICH\source\repos\Exercise01\Exercise01\bin\Debug\net5.0\Exercise01.dll
+C:\Users\JROTICH\source\repos\Exercise01\Exercise01\bin\Debug\net5.0\ref\Exercise01.dll
+C:\Users\JROTICH\source\repos\Exercise01\Exercise01\bin\Debug\net5.0\Exercise01.pdb
+C:\Users\JROTICH\source\repos\Exercise01\Exercise01\obj\Debug\net5.0\Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JROTICH\source\repos\Exercise01\Exercise01\obj\Debug\net5.0\Exercise01.AssemblyInfoInputs.cache
+C:\Users\JROTICH\source\repos\Exercise01\Exercise01\obj\Debug\net5.0\Exercise01.AssemblyInfo.cs
+C:\Users\JROTICH\source\repos\Exercise01\Exercise01\obj\Debug\net5.0\Exercise01.csproj.CoreCompileInputs.cache
+C:\Users\JROTICH\source\repos\Exercise01\Exercise01\obj\Debug\net5.0\Exercise01.dll
+C:\Users\JROTICH\source\repos\Exercise01\Exercise01\obj\Debug\net5.0\ref\Exercise01.dll
+C:\Users\JROTICH\source\repos\Exercise01\Exercise01\obj\Debug\net5.0\Exercise01.pdb
+C:\Users\JROTICH\source\repos\Exercise01\Exercise01\obj\Debug\net5.0\Exercise01.csproj.AssemblyReference.cache

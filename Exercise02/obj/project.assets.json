@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Exercise01/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Exercise01.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise01/1.0.0": {
+      "type": "project",
+      "path": "../Exercise01/Exercise01.csproj",
+      "msbuildProject": "../Exercise01/Exercise01.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Exercise01 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\JROTICH\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\JROTICH\\source\\repos\\Exercise01\\Exercise02\\Exercise02.csproj",
+      "projectName": "Exercise02",
+      "projectPath": "C:\\Users\\JROTICH\\source\\repos\\Exercise01\\Exercise02\\Exercise02.csproj",
+      "packagesPath": "C:\\Users\\JROTICH\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JROTICH\\source\\repos\\Exercise01\\Exercise02\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\JROTICH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\JROTICH\\source\\repos\\Exercise01\\Exercise01\\Exercise01.csproj": {
+              "projectPath": "C:\\Users\\JROTICH\\source\\repos\\Exercise01\\Exercise01\\Exercise01.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
